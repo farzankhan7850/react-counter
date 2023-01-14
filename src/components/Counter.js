@@ -1,9 +1,9 @@
-import React, {useState} from "react";
+import React from "react";
 
 const Counter = (props) =>{
     return(
 
-        <div id="value" className="display-1 text-center">
+        <div id="value" style={{color: props.color}} className="display-1 text-center">
         {props.value} 
         </div>
     );
