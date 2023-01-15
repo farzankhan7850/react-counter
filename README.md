@@ -7,23 +7,46 @@
 I have deploy this web-app on the below link, you can check it out by clicking on it:
     [Link](https://farzankhan7850.github.io/react-counter/)
 
-        or copy and paste it in you browser
+        https://farzankhan7850.github.io/react-counter/
 
- ##   *https://farzankhan7850.github.io/react-counter/* 
-
+ 
 
 ### `Want to run it on your local system`
 
-**git clone https://github.com/farzankhan7850/react-counter.git**
+1. Node should be installed in your PC/Laptop. To check the node version, open the terminal and write 
 
-Use this command to make the copy of my project in your system.
+    node --version
 
-
-
-### `open the terminal inside folder/directory`     
-    *cd (directory/folder name)*
+    it should show some output like (node V.18.2.09), if not install it from node site [Link](https://nodejs.org/en/download/).
 
 
-### `on terminal type`    
-    *npm start*
+2. In terminal write , to check npm gets installed with node or not.
+
+    npm --version 
+
+3. Open a directory/folder where you want to download the code. Right click and open terminal there.
+To make a copy of code in Terminal write
+
+     git clone https://github.com/farzankhan7850/react-counter.git
+
+    ![sample vid](https://github.com/farzankhan7850/react-counter/gif1.git)
+
+4. Now a directory of folder is created with the name **react-counter**.    Open the folder, now open the terminal inside that folder or in the previous folder just write 
+
+    cd react-counter
+
+    ![sample vid](https://github.com/farzankhan7850/react-counter/gif2.git)
+
+
+5. In terminal write **npm install** to install all depedencies.
+    npm install
+    (this will take few seconds)
+
+6.  At last write 
+
+    npm start
+
+Now you are good to go.
+
+THank you.
 
