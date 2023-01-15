@@ -29,6 +29,8 @@ To make a copy of code in Terminal write
 
        git clone https://github.com/farzankhan7850/react-counter.git
 
+      ![sample vid](https://github.com/farzankhan7850/react-counter/blob/main/tutorial.gif?raw=true)
+
 4. Now a directory of folder is created with the name **react-counter**.    Open the folder, now open the terminal inside that folder or in the previous folder just write 
 
         cd react-counter
